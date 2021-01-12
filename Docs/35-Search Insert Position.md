@@ -1,4 +1,4 @@
-# 35 Valid Paretheses
+# 35.Valid Paretheses
 
 [TOC]
 
